@@ -1,0 +1,23 @@
+{% extends "theme.html" %}
+{% block title %}Hello World{% endblock %}
+{% block head %}
+    {{ super() }}
+    <style type="text/css">
+        body {
+            background-color: #ababab;
+        }
+        h1 {
+	        margin-bottom: 20px;
+	        padding: 2px 10px 2px;
+	        font-weight: bold;
+	        color: green;
+            border-left: 4px solid green;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+    <h1>{{ title }}</h1>
+    <p>
+        {{ message }}
+    </p>
+{% endblock %}

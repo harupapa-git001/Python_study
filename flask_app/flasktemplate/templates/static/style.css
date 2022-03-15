@@ -1,0 +1,11 @@
+<style>
+h1 {
+	margin-bottom: 20px;
+	padding: 2px 10px 2px;
+	font-weight: bold;
+	color: red;
+	border-left: 4px solid red;
+}
+
+/* index.htmlのh1{}が有効になっていることを確認してください */
+</style>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+        <title>GIGAZINE</title>
+        <link>https://gigazine.net/</link>
+        <description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト、起きている限りほぼ毎日更新中。</description>
+        <dc:language>english</dc:language>
+        <dc:rights>Copyright 2019</dc:rights>
+        <dc:date>2019-01-24T20:00:00+09:00</dc:date>
+        <admin:generatorAgent rdf:resource="http://www.pmachine.com/" />
+        <item>
+            <title>機械学習xTensorFlowで交通事故や渋滞を素早く検知できるシステム<title>
+            <link>https://gigazine.net/news/20190124#45;snow&#45;tensorflow&#45;keep&#45;roads&#45;safe/</link>
+            <guid isPermaLink="true">https://gigazine.net/news/20190124-snow-tensorflow-keep-roads-safe/</guid>
+            <description><![CDATA[アメリカのアイオワ州は年間平均で33cm物雪が降り積もる地域であるため、特に冬になると道路を安全な状態に保つ事が重要となります。毎年冬になると自動車事故が急増するアイオワ州ですが、この問題に取り組み冬の道路における安全性と効率を改善するため、機械学習を用いて交通状況を分析し渋滞を特定したり事故発生を素早く検知する事ができるシステムを開発しました。<p><b><a href="https://gigazine.net/news/20190124&#45;snow&#45;tensorflow&#45;keep&#45;roads&#45;safe/">続きを読む...</a></b></p>]]></description>
+            <dc:subject>ソフトウェア, 乗り物, 動画</dc:subject>
+            <dc:date>2019-01-24T20:00:00+09:00</dc:date>
+        </item>
+    </channel>
+</rss>
